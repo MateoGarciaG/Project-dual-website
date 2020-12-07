@@ -191,6 +191,9 @@ section {
 
 /** Section Titulo Gracias por su compra */
 section .section-titulo2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
     color: white;
     padding: 40px;
     text-align: center;
@@ -199,7 +202,7 @@ section .section-titulo2 {
     background-size: cover;
     background-repeat: no-repeat;
     border: 7px solid rgb(255, 255, 255);
-    background-image: url('../resources/img/compra/fondo_calidad1.jpg');
+    background-image: url('../resources/img/compra/space_planets_minimalist2.jpg');
     width: 600px;
     height: 260px;
     
