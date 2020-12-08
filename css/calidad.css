@@ -319,6 +319,25 @@ section ul li:hover .section-description-calidad {
     opacity: 1;
 }
 
+section .section-description-calidad button {
+    background-color: #b6b6b6; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+}
+
+section .section-description-calidad button a{
+
+    color: white;
+    text-decoration: none;
+
+}
+
 
 /** LOGOTIPO PRINCIPAL */
 
